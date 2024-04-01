@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ArithmeticOps.h
+string
+-
+vector
+-
+complex
+-
+
+../include/TypeManipulation.h
+string
+-
+vector
+-
+complex
+-
+
+/home/dhruv/Desktop/LargeIntArithmeticOps/LargeIntArithmeticOps/example/computeExponentofLargeInt.cpp
+iostream
+-
+string
+-
+unordered_map
+-
+ArithmeticOps.h
+/home/dhruv/Desktop/LargeIntArithmeticOps/LargeIntArithmeticOps/example/ArithmeticOps.h
+TypeManipulation.h
+/home/dhruv/Desktop/LargeIntArithmeticOps/LargeIntArithmeticOps/example/TypeManipulation.h
+

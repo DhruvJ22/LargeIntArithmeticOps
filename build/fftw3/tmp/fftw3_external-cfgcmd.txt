@@ -1,0 +1,1 @@
+cmd='<SOURCE_DIR>/configure;--prefix=/home/dhruv/Desktop/LargeIntArithmeticOps/LargeIntArithmeticOps/build/fftw3-install'
