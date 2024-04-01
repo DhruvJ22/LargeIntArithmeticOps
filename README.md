@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains a collection of C++ functions for efficiently performing arithmetic operations on large integers. The functions are designed to handle positive integers with hundreds of thousands of digits. The programs comprise of robust error checks, bound checks and unit tests. 
+This repository contains a collection of C++ functions for efficiently performing arithmetic operations on large integers. The functions are designed to handle positive integers with hundreds of thousands of digits. The programs comprise robust error checks, bound checks and unit tests.
 
 ### Implemented Operations:
 
@@ -15,7 +15,7 @@ This repository contains a collection of C++ functions for efficiently performin
   - Karatsuba algorithm
   - Schonhadge-Strassen algorithm (using Cooley Tucker, radix-2, Recursive)
   - Schonhadge-Strassen algorithm (using Cooley Tucker, radix-2, Iterative)
-- Division (using binary search) 
+- Division (using binary search)
 - Modulus (using binary search)
 - Exponentiation (using Exponentiation by Squaring)
 - Fast Fourier Transform (FFT) and Inverse Fast Fourier Transform (IFFT)
@@ -68,7 +68,7 @@ The repository includes various unit tests implemented using Google Test (as a s
 
 ## Examples
 
-There are two examples (`./example1`, `./example2`) as well as a _Menu-driven Calculator_ (`./main`) to illustrate the cabilities of the programs. 
+There are two examples (`./example1`, `./example2`) as well as a _Menu-driven Calculator_ (`./main`) to illustrate the capabilities of the programs.
 
 ## Contributing
 
