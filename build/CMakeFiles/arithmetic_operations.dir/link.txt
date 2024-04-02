@@ -1,2 +1,0 @@
-/usr/bin/ar qc libarithmetic_operations.a  CMakeFiles/arithmetic_operations.dir/src/ArithmeticOps.cpp.o CMakeFiles/arithmetic_operations.dir/src/FFTHelperFuncs.cpp.o CMakeFiles/arithmetic_operations.dir/src/TypeManipulation.cpp.o
-/usr/bin/ranlib libarithmetic_operations.a

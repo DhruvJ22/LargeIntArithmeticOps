@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/example1.dir/example/computeAtomsinCalcium.cpp.o  -o example1  libarithmetic_operations.a 
