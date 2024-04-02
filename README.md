@@ -34,8 +34,8 @@ This repository contains a collection of C++ functions for efficiently performin
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/dhruvj9922/LargeIntArithmeticOps.git
-```
+git clone git@github.com:DhruvJ22/LargeIntArithmeticOps.git
+``
 
 Compile the source files using your preferred C++ compiler:
 ```
